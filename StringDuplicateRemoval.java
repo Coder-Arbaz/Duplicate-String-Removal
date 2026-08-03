@@ -6,8 +6,8 @@ public class StringDuplicateRemoval {
 	ArrayList<String> ar = new ArrayList<String>(); //Or ArrayList<String> ar = new ArrayList<>();
     ar.add("Volvo");
     ar.add("BMW");
-    ar.add("Ford");
     ar.add("BMW");
+    ar.add("Ford");
     ar.add("Thar");
     ar.add("Mazda");
     ar.add("Volvo");
