@@ -26,3 +26,7 @@ public class StringDuplicateRemoval {
     System.out.println(cars);
   }
 }
+
+/* Input:  [Volvo, BMW, Ford, BMW, Thar, Mazda, Volvo, Thar, Bugati, BMW, Mazda]
+ * Output: [Volvo, BMW, Ford, Thar, Mazda, Bugati]
+*/
