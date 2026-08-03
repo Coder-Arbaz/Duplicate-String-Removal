@@ -23,6 +23,7 @@ public class StringDuplicateRemoval {
     	cars.add(ar.get((ar.size()-1)-arl));
     	arl--;
     }
+    // Or replace the line no from 19 to 25 with this line-> LinkedHashSet<String> cars = new LinkedHashSet<>(ar);
     System.out.println(cars);
   }
 }
