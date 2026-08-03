@@ -20,7 +20,7 @@ public class StringDuplicateRemoval {
     int arl =ar.size()-1;
     while(arl >= 0)
     {
-    	cars.add(ar.get(arl));
+    	cars.add(ar.get((ar.size()-1)-arl));
     	arl--;
     }
     System.out.println(cars);
